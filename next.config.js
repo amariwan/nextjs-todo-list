@@ -1,0 +1,12 @@
+module.exports = {
+  env: {
+    FIREBASE_APP_API_KEY: 'AIzaSyB2vemSRmUdZAS1w9oQfsTP9FwUshEntFs',
+    FIREBASE_APP_AUTH_DOMAIN: 'wbt1-b4086.firebaseapp.com',
+    FIREBASE_APP_DATABASE_URL: 'https://wbt1-b4086.firebaseio.com',
+    FIREBASE_APP_PROJECT_ID: 'wbt1-b4086',
+    FIREBASE_APP_STORAGE_BUCKET: 'wbt1-b4086.appspot.com',
+    FIREBASE_APP_MESSAGING_SENDER_ID: '955963773619',
+    FIREBASE_APP_ID: '1:955963773619:web:a6e0cc422bde5099f496c6',
+    FIREBASE_MEASUREMENT_ID: 'G-BMW8JH92RF',
+  },
+};
